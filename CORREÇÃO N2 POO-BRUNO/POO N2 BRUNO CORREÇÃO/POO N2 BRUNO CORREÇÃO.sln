@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO N2 BRUNO CORREÇÃO", "POO N2 BRUNO CORREÇÃO\POO N2 BRUNO CORREÇÃO.csproj", "{35BCE98A-3490-48FB-87B3-B1886B0F4D78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BCE98A-3490-48FB-87B3-B1886B0F4D78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BCE98A-3490-48FB-87B3-B1886B0F4D78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BCE98A-3490-48FB-87B3-B1886B0F4D78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BCE98A-3490-48FB-87B3-B1886B0F4D78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23F61E01-FEDD-43DB-9D95-A05FE56FE91F}
+	EndGlobalSection
+EndGlobal
